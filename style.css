@@ -1,0 +1,207 @@
+
+.ig{
+  background-image: url("payments-banner-graphic.png");
+  height: 550px;
+  margin: auto;
+}
+.al{
+  text-align: center;
+}
+.inde{
+
+padding-top: 200px;
+font-size: 40px;
+color: white;
+
+}
+.indy{
+
+font-size: 25px;
+color: white;
+
+}
+
+.butt{
+  text-align: center;
+  font-size: 15px;
+  height: 40px;
+  width: 280px;
+  border-radius: 5px;
+  background-color: white;
+  color: #7575b0;
+
+}
+
+
+.first{
+  background-color: white;
+
+  width: 423px;
+  height: 350px;
+  border-bottom: 3px solid #E2E2E2;
+}
+.second{
+  background-color: white;
+
+  width: 423px;
+  height: 350px;
+  border-bottom: 3px solid #E2E2E2;
+}
+
+.three{
+
+  background-color: white;
+
+  width: 423px;
+  height: 350px;
+  border-bottom: 3px solid #E2E2E2;
+
+}
+.gal{
+  background-color: #E2E2E2;
+  margin-top: -200px;
+  border-radius: 100px;
+}
+.tx{
+    text-align: center;
+font-size: 20px;
+}
+.tex{
+text-align: center;
+
+
+}
+.fi {
+  width: 100%;
+  vertical-align:top;
+  height: 580px;
+}
+
+
+.ico{
+
+margin-top: 40px;
+margin-left: 150px;
+}
+
+
+.deux{
+background-color: #f6f9fb;
+width: 100%;
+height: 650px;
+text-align: center;
+
+}
+.sim{
+padding-top: 30%;
+font-size: 40px;
+}
+.som{
+margin-top: -10px;
+}
+.dol{
+float: left;
+margin-left: 35%;
+font-size: 80px;
+margin-top: -40px;
+}
+.paid{
+
+margin-right: 40%;
+}
+.pir{
+margin-right: 40%;
+}
+.bl{
+width: 100%;
+height: 80px;
+text-align: center;
+background-color: #4c535c;
+
+}
+
+.num1{
+background-color: blue;
+height: 350px;
+width: 635px;
+float: left;
+border-bottom: 3px solid #E2E2E2;
+overflow: hidden;
+}
+.im1{
+  background-image: url("welcome-invoices-graphic-1.png");
+  width: 80%;
+  height: 100%;
+  margin-left: 10%;
+margin-top: 5%;
+  margin-right: 10%;
+  border-radius: 10px;
+  border-bottom: 3px solid #E2E2E2;
+  overflow: hidden;
+}
+
+.num2{
+  float: right;
+  background-color: white;
+  height: 350px;
+  width: 635px;
+  border-bottom: 3px solid #E2E2E2;
+}
+.im2{
+  background-image: url("welcome-invoices-graphic-2.png");
+  width: 80%;
+  height: 100%;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-right: 10%;
+  border-radius: 10px;
+  border-bottom: 3px solid #E2E2E2;
+}
+.num3{
+  background-color: white;
+  height: 350px;
+  width: 635px;
+  float: left;
+  border-bottom: 3px solid #E2E2E2;
+}
+.im3{
+  background-image: url("welcome-invoices-graphic-3.png");
+  width: 80%;
+  height: 90%;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-right: 10%;
+  border-radius: 10px;
+  border-bottom: 3px solid #E2E2E2;
+}
+.num4{
+  float: right;
+  background-color: orange;
+  height: 350px;
+  width: 635px;
+  border-bottom: 3px solid #E2E2E2;
+}
+.num5{
+  background-color: violet;
+  height: 350px;
+  width: 635px;
+  float: left;
+  border-bottom: 3px solid #E2E2E2;
+}
+.num6{
+  float: right;
+  background-color: white;
+  height: 350px;
+  width: 635px;
+  border-bottom: 3px solid #E2E2E2;
+}
+
+.avder{
+  width: 100%;
+  height: 1250px;
+  background-color: #4c535c;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
